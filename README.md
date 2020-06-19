@@ -1,5 +1,5 @@
 # Thesis_Work
-Analysis on Tweets hashtag.
+Analysis on Tweets hashtag. Contains 4 files
 
 # Requirements
 * numpy,
