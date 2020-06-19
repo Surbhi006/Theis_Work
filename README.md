@@ -1,4 +1,4 @@
-# Theis_Work
+# Thesis_Work
 Analysis on Tweets hashtag.
 
 # Requirements
